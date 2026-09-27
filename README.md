@@ -1,2 +1,15 @@
-# amazon-frontend-clone
-A frontend clone of Amazon's homepage built with HTML5, CSS3, and Font Awesome.
+# Amazon Frontend Clone
+
+## 📸 Project Preview
+
+### Header
+
+![Header](header.png)
+
+### Product Section
+
+![Middle](hero&products.png)
+
+### Footer
+
+![Footer](footer.png)
