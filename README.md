@@ -1,16 +1,16 @@
 # Amazon Frontend Clone
 
-## 📌 About the Project
+##  About the Project
 
 This is an Amazon-inspired e-commerce frontend project built using HTML5 and CSS3. I created this project to practice frontend development and improve my understanding of webpage structure, CSS layouts, Flexbox, and UI design.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
 * Font Awesome
 
-## ✨ Features
+##  Features
 
 * Amazon-style navigation bar
 * Delivery location section
@@ -23,7 +23,7 @@ This is an Amazon-inspired e-commerce frontend project built using HTML5 and CSS
 * Flexbox layout
 * Background images
 
-## 📸 Project Preview
+##  Project Preview
 
 ### Header & Navigation
 
@@ -37,7 +37,7 @@ This is an Amazon-inspired e-commerce frontend project built using HTML5 and CSS
 
 ![Footer](footer.png)
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
@@ -48,7 +48,7 @@ Through this project, I practiced:
 * Creating navigation bars and footers
 * Organizing a frontend project
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add JavaScript functionality
 * Make the search bar functional
@@ -57,6 +57,6 @@ Through this project, I practiced:
 * Improve responsive design
 * Deploy the website using GitHub Pages
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
 https://github.com/kumarbysani2007/amazon-frontend-clone
